@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959706801214",
+    "project_id": "wisy-challenge-1c565",
+    "storage_bucket": "wisy-challenge-1c565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959706801214:android:4d9b8f426a6493f21a1d6f",
+        "android_client_info": {
+          "package_name": "com.example.wisy_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959706801214-a7vmmnae8nr5ngplorc8vcns7ebeadjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp_Q8tHiatIyuIXDHiI1gQdI5UgPiWD5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959706801214-a7vmmnae8nr5ngplorc8vcns7ebeadjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
